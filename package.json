@@ -40,7 +40,7 @@
     "@ctrl/ngx-chartjs": "^2.0.2",
     "@ngx-translate/core": "^11.0.1",
     "@ngx-translate/http-loader": "^4.0.0",
-    "@types/jest": "^24.9.1",
+    "@types/jest": "^26.0.23",
     "@types/jquery": "^3.5.5",
     "@types/mocha": "^5.2.7",
     "@walletconnect/web3-provider": "^1.3.4",
