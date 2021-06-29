@@ -38,7 +38,7 @@
     "@angular/router": "^9.1.13",
     "@cityofzion/neon-js": "^4.8.3",
     "@ctrl/ngx-chartjs": "^2.0.2",
-    "@ngx-translate/core": "^11.0.1",
+    "@ngx-translate/core": "^12.1.2",
     "@ngx-translate/http-loader": "^4.0.0",
     "@types/jest": "^24.9.1",
     "@types/jquery": "^3.5.5",
